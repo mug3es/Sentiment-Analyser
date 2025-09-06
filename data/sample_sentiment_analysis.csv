@@ -1,0 +1,101 @@
+author,content,country,date_time,id,language,latitude,longitude,number_of_likes,number_of_shares,sentiment
+user1,So bad!,US,2025-01-01 10:00,1000,en,37.7749,-122.4194,12,2,negative
+user2,I hate this.,US,2025-01-01 10:01,1001,en,37.7749,-122.4194,10,5,negative
+user3,Average day.,US,2025-01-01 10:02,1002,en,37.7749,-122.4194,15,4,neutral
+user4,Nothing special.,US,2025-01-01 10:03,1003,en,37.7749,-122.4194,19,4,neutral
+user5,Worst experience ever.,US,2025-01-01 10:04,1004,en,37.7749,-122.4194,17,5,negative
+user6,So happy today!,US,2025-01-01 10:05,1005,en,37.7749,-122.4194,17,2,positive
+user7,Meh.,US,2025-01-01 10:06,1006,en,37.7749,-122.4194,6,1,neutral
+user8,Nothing special.,US,2025-01-01 10:07,1007,en,37.7749,-122.4194,1,0,neutral
+user9,Best thing ever!,US,2025-01-01 10:08,1008,en,37.7749,-122.4194,12,2,positive
+user10,I hate this.,US,2025-01-01 10:09,1009,en,37.7749,-122.4194,10,1,negative
+user11,This made my day!,US,2025-01-01 10:10,1010,en,37.7749,-122.4194,8,2,positive
+user12,Not happy with this.,US,2025-01-01 10:11,1011,en,37.7749,-122.4194,18,0,negative
+user13,I love this!,US,2025-01-01 10:12,1012,en,37.7749,-122.4194,11,5,positive
+user14,I enjoy this a lot!,US,2025-01-01 10:13,1013,en,37.7749,-122.4194,16,5,positive
+user15,It's okay.,US,2025-01-01 10:14,1014,en,37.7749,-122.4194,18,1,neutral
+user16,So bad!,US,2025-01-01 10:15,1015,en,37.7749,-122.4194,20,3,negative
+user17,Nothing special.,US,2025-01-01 10:16,1016,en,37.7749,-122.4194,15,3,neutral
+user18,Nothing special.,US,2025-01-01 10:17,1017,en,37.7749,-122.4194,15,5,neutral
+user19,This made my day!,US,2025-01-01 10:18,1018,en,37.7749,-122.4194,9,3,positive
+user20,Meh.,US,2025-01-01 10:19,1019,en,37.7749,-122.4194,20,5,neutral
+user21,This made my day!,US,2025-01-01 10:20,1020,en,37.7749,-122.4194,9,3,positive
+user22,Just another day.,US,2025-01-01 10:21,1021,en,37.7749,-122.4194,14,3,neutral
+user23,Average day.,US,2025-01-01 10:22,1022,en,37.7749,-122.4194,16,5,neutral
+user24,This is terrible.,US,2025-01-01 10:23,1023,en,37.7749,-122.4194,5,3,negative
+user25,Feeling great!,US,2025-01-01 10:24,1024,en,37.7749,-122.4194,1,2,positive
+user26,I am sad about this.,US,2025-01-01 10:25,1025,en,37.7749,-122.4194,6,5,negative
+user27,So bad!,US,2025-01-01 10:26,1026,en,37.7749,-122.4194,0,0,negative
+user28,This made my day!,US,2025-01-01 10:27,1027,en,37.7749,-122.4194,17,1,positive
+user29,I hate this.,US,2025-01-01 10:28,1028,en,37.7749,-122.4194,4,1,negative
+user30,Meh.,US,2025-01-01 10:29,1029,en,37.7749,-122.4194,0,1,neutral
+user31,Average day.,US,2025-01-01 10:30,1030,en,37.7749,-122.4194,9,0,neutral
+user32,No strong feelings.,US,2025-01-01 10:31,1031,en,37.7749,-122.4194,16,5,neutral
+user33,I am sad about this.,US,2025-01-01 10:32,1032,en,37.7749,-122.4194,13,0,negative
+user34,No strong feelings.,US,2025-01-01 10:33,1033,en,37.7749,-122.4194,8,2,neutral
+user35,Meh.,US,2025-01-01 10:34,1034,en,37.7749,-122.4194,3,0,neutral
+user36,Not happy with this.,US,2025-01-01 10:35,1035,en,37.7749,-122.4194,0,4,negative
+user37,Best thing ever!,US,2025-01-01 10:36,1036,en,37.7749,-122.4194,1,0,positive
+user38,This makes me angry.,US,2025-01-01 10:37,1037,en,37.7749,-122.4194,4,4,negative
+user39,So bad!,US,2025-01-01 10:38,1038,en,37.7749,-122.4194,15,2,negative
+user40,I feel neutral.,US,2025-01-01 10:39,1039,en,37.7749,-122.4194,10,4,neutral
+user41,This makes me angry.,US,2025-01-01 10:40,1040,en,37.7749,-122.4194,2,3,negative
+user42,Nothing special.,US,2025-01-01 10:41,1041,en,37.7749,-122.4194,5,0,neutral
+user43,This is amazing!,US,2025-01-01 10:42,1042,en,37.7749,-122.4194,10,1,positive
+user44,Meh.,US,2025-01-01 10:43,1043,en,37.7749,-122.4194,20,5,neutral
+user45,This is amazing!,US,2025-01-01 10:44,1044,en,37.7749,-122.4194,13,5,positive
+user46,I love this!,US,2025-01-01 10:45,1045,en,37.7749,-122.4194,19,0,positive
+user47,Average day.,US,2025-01-01 10:46,1046,en,37.7749,-122.4194,11,4,neutral
+user48,It's okay.,US,2025-01-01 10:47,1047,en,37.7749,-122.4194,20,0,neutral
+user49,Just another day.,US,2025-01-01 10:48,1048,en,37.7749,-122.4194,4,0,neutral
+user50,It's okay.,US,2025-01-01 10:49,1049,en,37.7749,-122.4194,6,3,neutral
+user51,This made my day!,US,2025-01-01 10:50,1050,en,37.7749,-122.4194,9,2,positive
+user52,It's okay.,US,2025-01-01 10:51,1051,en,37.7749,-122.4194,12,5,neutral
+user53,I enjoy this a lot!,US,2025-01-01 10:52,1052,en,37.7749,-122.4194,9,5,positive
+user54,Not happy with this.,US,2025-01-01 10:53,1053,en,37.7749,-122.4194,1,5,negative
+user55,I feel neutral.,US,2025-01-01 10:54,1054,en,37.7749,-122.4194,9,5,neutral
+user56,Worst experience ever.,US,2025-01-01 10:55,1055,en,37.7749,-122.4194,6,2,negative
+user57,Average day.,US,2025-01-01 10:56,1056,en,37.7749,-122.4194,8,3,neutral
+user58,Nothing special.,US,2025-01-01 10:57,1057,en,37.7749,-122.4194,15,2,neutral
+user59,Meh.,US,2025-01-01 10:58,1058,en,37.7749,-122.4194,13,5,neutral
+user60,I love this!,US,2025-01-01 10:59,1059,en,37.7749,-122.4194,8,5,positive
+user61,Worst experience ever.,US,2025-01-01 10:60,1060,en,37.7749,-122.4194,12,0,negative
+user62,Not happy with this.,US,2025-01-01 10:61,1061,en,37.7749,-122.4194,17,4,negative
+user63,So happy today!,US,2025-01-01 10:62,1062,en,37.7749,-122.4194,14,5,positive
+user64,Worst experience ever.,US,2025-01-01 10:63,1063,en,37.7749,-122.4194,3,0,negative
+user65,I feel neutral.,US,2025-01-01 10:64,1064,en,37.7749,-122.4194,16,3,neutral
+user66,So bad!,US,2025-01-01 10:65,1065,en,37.7749,-122.4194,2,0,negative
+user67,Worst experience ever.,US,2025-01-01 10:66,1066,en,37.7749,-122.4194,9,5,negative
+user68,Awful!,US,2025-01-01 10:67,1067,en,37.7749,-122.4194,8,0,negative
+user69,Worst experience ever.,US,2025-01-01 10:68,1068,en,37.7749,-122.4194,8,5,negative
+user70,Worst experience ever.,US,2025-01-01 10:69,1069,en,37.7749,-122.4194,20,2,negative
+user71,Average day.,US,2025-01-01 10:70,1070,en,37.7749,-122.4194,20,2,neutral
+user72,So bad!,US,2025-01-01 10:71,1071,en,37.7749,-122.4194,20,3,negative
+user73,Just another day.,US,2025-01-01 10:72,1072,en,37.7749,-122.4194,5,5,neutral
+user74,This makes me angry.,US,2025-01-01 10:73,1073,en,37.7749,-122.4194,19,2,negative
+user75,Feeling great!,US,2025-01-01 10:74,1074,en,37.7749,-122.4194,11,3,positive
+user76,Meh.,US,2025-01-01 10:75,1075,en,37.7749,-122.4194,20,2,neutral
+user77,Not happy with this.,US,2025-01-01 10:76,1076,en,37.7749,-122.4194,17,4,negative
+user78,Awful!,US,2025-01-01 10:77,1077,en,37.7749,-122.4194,5,4,negative
+user79,I hate this.,US,2025-01-01 10:78,1078,en,37.7749,-122.4194,2,0,negative
+user80,Meh.,US,2025-01-01 10:79,1079,en,37.7749,-122.4194,20,5,neutral
+user81,Nothing special.,US,2025-01-01 10:80,1080,en,37.7749,-122.4194,20,0,neutral
+user82,"Not good, not bad.",US,2025-01-01 10:81,1081,en,37.7749,-122.4194,16,2,neutral
+user83,Feeling great!,US,2025-01-01 10:82,1082,en,37.7749,-122.4194,0,3,positive
+user84,It's okay.,US,2025-01-01 10:83,1083,en,37.7749,-122.4194,16,5,neutral
+user85,Best thing ever!,US,2025-01-01 10:84,1084,en,37.7749,-122.4194,11,2,positive
+user86,I am sad about this.,US,2025-01-01 10:85,1085,en,37.7749,-122.4194,7,5,negative
+user87,This is amazing!,US,2025-01-01 10:86,1086,en,37.7749,-122.4194,2,3,positive
+user88,This is terrible.,US,2025-01-01 10:87,1087,en,37.7749,-122.4194,8,5,negative
+user89,I hate this.,US,2025-01-01 10:88,1088,en,37.7749,-122.4194,0,0,negative
+user90,I hate this.,US,2025-01-01 10:89,1089,en,37.7749,-122.4194,1,0,negative
+user91,Awful!,US,2025-01-01 10:90,1090,en,37.7749,-122.4194,12,0,negative
+user92,Not happy with this.,US,2025-01-01 10:91,1091,en,37.7749,-122.4194,1,4,negative
+user93,So bad!,US,2025-01-01 10:92,1092,en,37.7749,-122.4194,11,0,negative
+user94,Best thing ever!,US,2025-01-01 10:93,1093,en,37.7749,-122.4194,13,0,positive
+user95,Awful!,US,2025-01-01 10:94,1094,en,37.7749,-122.4194,9,4,negative
+user96,This made my day!,US,2025-01-01 10:95,1095,en,37.7749,-122.4194,13,3,positive
+user97,I enjoy this a lot!,US,2025-01-01 10:96,1096,en,37.7749,-122.4194,16,5,positive
+user98,No strong feelings.,US,2025-01-01 10:97,1097,en,37.7749,-122.4194,4,5,neutral
+user99,Feeling great!,US,2025-01-01 10:98,1098,en,37.7749,-122.4194,9,2,positive
+user100,It's okay.,US,2025-01-01 10:99,1099,en,37.7749,-122.4194,18,1,neutral
