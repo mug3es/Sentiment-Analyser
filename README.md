@@ -10,7 +10,7 @@ Features
 
 Installation
 	1.	Clone this repository:
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/mug3es/Sentiment-Analyser.git
 cd sentiment-analysis
 	2.	Create and activate a virtual environment:
 python -m venv venv
